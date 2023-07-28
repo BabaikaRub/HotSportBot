@@ -1,0 +1,5 @@
+from keyboards.client_kb import inline_menu
+from keyboards.client_kb import inline_about_menu
+from keyboards.client_kb import inline_finish_menu
+from keyboards.client_kb import inline_finish_back
+from keyboards.client_kb import inline_important_menu
